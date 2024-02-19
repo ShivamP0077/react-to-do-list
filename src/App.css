@@ -1,0 +1,38 @@
+body{
+  margin: 0;
+  background-color: #646FF0;
+  display: flex;
+  justify-content: center;
+}
+
+.main-containor{
+  margin: 80px;
+  width:80vw;
+  height:40vw;
+  background-color: white;
+  box-sizing: border-box;
+ padding: 1px;
+}
+
+.main-containor h1{
+      margin: 30px;
+      color: #646681;
+      text-align: center;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.main-containor button{
+  border-radius: 10px;
+  background: #646FF0;
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  width: 7.7em;
+  padding-top: 6px;
+  padding-left: 7px;
+  padding-right: 7px;
+  padding-bottom: 7px;
+  border-color: white;
+  border-width: 0;
+  margin-left: 310px;
+}
+
